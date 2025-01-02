@@ -14,9 +14,12 @@ If the password is correct (1234), the user will see:
 ![image](https://github.com/user-attachments/assets/877fb983-57ef-43e4-a40a-4a586b1010d2)
 
 Depending on the admin's choice, the output will vary. Here are a few examples:
-Adding an Item:![image](https://github.com/user-attachments/assets/0f4966c0-690c-43ec-af4b-69002173229c)
-Viewing Items:![image](https://github.com/user-attachments/assets/49e6cd8d-fc4c-42d0-88d5-eb709b571d9a)
-Updating Cost:![image](https://github.com/user-attachments/assets/cfd4a991-d990-4a7b-a0f9-d69a79e6bfd8)
+Adding an Item:
+![image](https://github.com/user-attachments/assets/0f4966c0-690c-43ec-af4b-69002173229c)
+Viewing Items:
+![image](https://github.com/user-attachments/assets/49e6cd8d-fc4c-42d0-88d5-eb709b571d9a)
+Updating Cost:
+![image](https://github.com/user-attachments/assets/cfd4a991-d990-4a7b-a0f9-d69a79e6bfd8)
 
 If the user selects option 2 (Customer), they will be prompted to enter their name and phone number:
 ![image](https://github.com/user-attachments/assets/1f4d1b5d-460e-496e-939f-ea296da5f016)
